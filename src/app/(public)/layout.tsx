@@ -4,7 +4,6 @@ import "./globals.css";
 import Header from "./../../components/Header"
 import Footer from "./../../components/Footer"
 import Hero from "./../../components/Hero"
-import Link from "next/link";
 
 const geistSans = localFont({
   src: "./../../../public/fonts/GeistVF.woff",
