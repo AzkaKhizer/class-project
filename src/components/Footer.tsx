@@ -14,10 +14,9 @@ function Footer ()  {
 
   
     <div className="flex space-x-4 mb-4 md:mb-0">
-      <a href="#home" className="hover:text-gray-400">Home</a>
-      <a href="#about" className="hover:text-gray-400">About</a>
-      <a href="#projects" className="hover:text-gray-400">Projects</a>
-      <a href="#contact" className="hover:text-gray-400">Contact</a>
+      <a href="/" className="hover:text-gray-400">Home</a>
+      <a href="/about" className="hover:text-gray-400">About</a>
+      <a href="/contact" className="hover:text-gray-400">Contact</a>
     </div>
 
     <div className="flex space-x-4">
